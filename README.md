@@ -22,7 +22,7 @@
 
 ## Demo
 
-[https://www.wilianflores.info/nosotros]
+https://www.wilianflores.info/nosotros
 
 
 
@@ -35,14 +35,17 @@ https://github.com/wiliespe/GuitarLA
 Leer Readme
 https://github.com/wiliespe/back-strapi
 
+**Acceso a strapi:**
+
+
+**email:** wilian.flores@ikasle.aeg.eus
+
+**password:** Vane162002$
 
 
 
 
 
-
-
-![Logo](https://asset.cloudinary.com/wilidev/3d9f9e5c48d6e54e64a3ddad23666725)
 
 
 ## Author
